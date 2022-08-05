@@ -1,9 +1,7 @@
 # Sobre mim
 - 👋 Olá meu nome é @rocha28112011
-:+1:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+:+1: meu email de contato é [email](kaua.rocha.alves@escola.pr.gov.br)
+- 👀 Eu estou interessado em aprender novas línguagens.
+- 🌱 Eu estou aprendendo a progamar recentemente a línguagem de JavaScript e scratch
+- 
+- 
